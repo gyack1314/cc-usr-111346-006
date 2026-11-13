@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "tables": {
+    "spectra": {
+      "file": "normal-spectra.jsonl",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "bytes": 86,
+      "rows": 2,
+      "fields": [
+        "id",
+        "ordinal",
+        "peaks"
+      ]
+    },
+    "selections": {
+      "file": "normal-selections.jsonl",
+      "sha256": "81204e048767a8540238dca7a1fb7ed5a328e2e7f246245890eecd331c7d99b6",
+      "bytes": 60,
+      "rows": 1,
+      "fields": [
+        "id",
+        "spectrum",
+        "with_precursors"
+      ]
+    }
+  }
+}

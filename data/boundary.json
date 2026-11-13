@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "tables": {
+    "spectra": {
+      "file": "boundary-spectra.jsonl",
+      "sha256": "c045eb2b12a9cbafd1f81ad22516f10d8407fdfcdd6a2c945a6bc8f821027815",
+      "bytes": 86,
+      "rows": 2,
+      "fields": [
+        "id",
+        "ordinal",
+        "peaks"
+      ]
+    },
+    "selections": {
+      "file": "boundary-selections.jsonl",
+      "sha256": "18248ec6cffe8900ccb1460f7d60f6527048438ae490a49615f49a79a0c4ae9b",
+      "bytes": 61,
+      "rows": 1,
+      "fields": [
+        "id",
+        "spectrum",
+        "with_precursors"
+      ]
+    }
+  }
+}

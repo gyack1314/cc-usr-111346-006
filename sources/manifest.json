@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "sources/spectra.mzML",
+      "bytes": 1875,
+      "sha256": "069811af24fe79e0ae9269d4cd626a6cb2edfa0fd7ec7a12cb1a4734d828fbc0"
+    },
+    {
+      "path": "sources/expected-peaks.json",
+      "bytes": 235,
+      "sha256": "cd0371f266300b03ad137d8118e4059441afa8936b338ee3fd66f3df1bd16145"
+    }
+  ]
+}
